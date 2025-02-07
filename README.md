@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi there! I'm Atilla 👨‍💻
 
-<!--
-**atillacantay/atillacantay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Engineer with over **4 years** of experience in front-end and full-stack development. I specialize in creating scalable, user-centric solutions using modern technologies.
 
-Here are some ideas to get you started:
+🔧 Technologies & Tools:
+- TypeScript, JavaScript
+- React, Next.js, Vue, Nuxt
+- HTML, CSS, SASS, TailwindCSS, Shadcn/UI, Material UI
+- CMSs (Contentful, Storyblok), Commercetools
+- Node.js, NestJS
+- REST APIs, GraphQL
+- NoSQL, MongoDB
+- Git, WebSocket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect:**
+- [LinkedIn](https://www.linkedin.com/in/atillacantay)
+- [Portfolio Website](https://atillacantay.com)
+- [Email](mailto:atillacantay@gmail.com)
