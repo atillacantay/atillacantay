@@ -1,6 +1,6 @@
 👋 Hi there! I'm Atilla 👨‍💻
 
-I'm a passionate Software Engineer with over **4 years** of experience in front-end and full-stack development. I specialize in creating scalable, user-centric solutions using modern technologies.
+I'm a passionate Software Engineer with over **4 years** of experience in **front-end** and **full-stack** development. I specialize in creating scalable, user-centric solutions using modern technologies.
 
 🔧 Technologies & Tools:
 - TypeScript, JavaScript
